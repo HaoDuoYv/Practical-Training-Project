@@ -1,4 +1,10 @@
 # Practical-Training-Project
-我的大学实训项目
-myGoodSharing文件夹是用java swing模块构架的一个关于物品共享平台的GUI项目。
-LogisticsManagement是用c语言写的一个简单物流管理系统。
+大学实训项目<br>
+
+1.c++物流管理系统<br>
+
+2.java共享物品管理系统<br>
+
+3.链家网北京租房数据分析<br>
+
+4.b站弹幕的采集与分析<br>
